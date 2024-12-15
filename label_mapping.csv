@@ -1,0 +1,13 @@
+category;value
+unknown;0
+decorator;1
+factory;2
+strategy;3
+facade;4
+abstract_factory;5
+chain_of_responsibility;6
+feature_flags;7
+singleton;8
+adapter;9
+observer;10
+builder;11

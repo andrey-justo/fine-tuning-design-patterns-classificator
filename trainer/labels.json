@@ -1,0 +1,1 @@
+{"singleton": 0, "strategy": 1, "facade": 2, "chain_of_responsibility": 3, "abstract_factory": 4, "feature_flags": 5, "decorator": 6, "observer": 7, "unknown": 8, "factory": 9, "adapter": 10, "builder": 11}

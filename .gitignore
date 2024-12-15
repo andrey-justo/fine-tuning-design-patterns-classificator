@@ -1,0 +1,4 @@
+crawler/sources/*
+samples/*
+trainer/results/*
+trainer/design-patterns-model/*

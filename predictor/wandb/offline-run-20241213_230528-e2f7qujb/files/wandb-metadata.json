@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2024-12-14T02:05:28.445778",
+    "startedAt": "2024-12-14T02:05:28.193226",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Andrey Victor Justo\\workspace\\redes-neurais\\projeto-final\\predictor\\predict.py",
+    "codePath": "predict.py",
+    "host": "DESKTOP-VGD3S12",
+    "username": "Andrey Victor Justo",
+    "executable": "C:\\Users\\Andrey Victor Justo\\workspace\\redes-neurais\\.venv\\Scripts\\python.exe"
+}

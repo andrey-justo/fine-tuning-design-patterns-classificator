@@ -1,0 +1,13 @@
+2024-12-13 22:17:22,805 INFO    StreamThr :31656 [internal.py:wandb_internal():90] W&B internal server running at pid: 31656, started at: 2024-12-13 22:17:22.805204
+2024-12-13 22:17:22,806 DEBUG   HandlerThread:31656 [handler.py:handle_request():141] handle_request: status
+2024-12-13 22:17:23,007 DEBUG   SenderThread:31656 [sender.py:send_request():316] send_request: status
+2024-12-13 22:17:23,009 INFO    WriterThread:31656 [datastore.py:open_for_write():75] open: C:\Users\Andrey Victor Justo\workspace\redes-neurais\projeto-final\crawler\wandb\offline-run-20241213_221722-qp5bfy0v\run-qp5bfy0v.wandb
+2024-12-13 22:17:23,009 DEBUG   HandlerThread:31656 [handler.py:handle_request():141] handle_request: run_start
+2024-12-13 22:17:23,030 DEBUG   HandlerThread:31656 [meta.py:__init__():35] meta init
+2024-12-13 22:17:23,030 DEBUG   HandlerThread:31656 [meta.py:__init__():50] meta init done
+2024-12-13 22:17:23,030 DEBUG   HandlerThread:31656 [meta.py:probe():216] probe
+2024-12-13 22:17:23,040 DEBUG   HandlerThread:31656 [git.py:repo():40] git repository is invalid
+2024-12-13 22:17:23,040 DEBUG   HandlerThread:31656 [meta.py:_save_pip():54] save pip
+2024-12-13 22:17:23,040 DEBUG   HandlerThread:31656 [meta.py:_save_pip():68] save pip done
+2024-12-13 22:17:23,040 DEBUG   HandlerThread:31656 [meta.py:probe():254] probe done
+2024-12-13 22:17:23,250 DEBUG   HandlerThread:31656 [handler.py:handle_request():141] handle_request: partial_history

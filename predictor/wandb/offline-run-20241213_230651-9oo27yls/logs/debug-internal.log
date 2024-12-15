@@ -1,0 +1,91 @@
+2024-12-13 23:06:51,153 INFO    StreamThr :33844 [internal.py:wandb_internal():90] W&B internal server running at pid: 33844, started at: 2024-12-13 23:06:51.153738
+2024-12-13 23:06:51,155 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: status
+2024-12-13 23:06:51,387 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: status
+2024-12-13 23:06:51,389 INFO    WriterThread:33844 [datastore.py:open_for_write():75] open: C:\Users\Andrey Victor Justo\workspace\redes-neurais\projeto-final\predictor\wandb\offline-run-20241213_230651-9oo27yls\run-9oo27yls.wandb
+2024-12-13 23:06:51,389 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: run_start
+2024-12-13 23:06:51,412 DEBUG   HandlerThread:33844 [meta.py:__init__():35] meta init
+2024-12-13 23:06:51,412 DEBUG   HandlerThread:33844 [meta.py:__init__():50] meta init done
+2024-12-13 23:06:51,412 DEBUG   HandlerThread:33844 [meta.py:probe():216] probe
+2024-12-13 23:06:51,428 DEBUG   HandlerThread:33844 [git.py:repo():40] git repository is invalid
+2024-12-13 23:06:51,428 DEBUG   HandlerThread:33844 [meta.py:_save_pip():54] save pip
+2024-12-13 23:06:51,429 DEBUG   HandlerThread:33844 [meta.py:_save_pip():68] save pip done
+2024-12-13 23:06:51,429 DEBUG   HandlerThread:33844 [meta.py:probe():254] probe done
+2024-12-13 23:06:51,620 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: partial_history
+2024-12-13 23:06:51,636 DEBUG   SenderThread:33844 [sender.py:send():302] send: exit
+2024-12-13 23:06:51,636 INFO    SenderThread:33844 [sender.py:send_exit():438] handling exit code: 0
+2024-12-13 23:06:51,637 INFO    SenderThread:33844 [sender.py:send_exit():440] handling runtime: 0
+2024-12-13 23:06:51,638 INFO    SenderThread:33844 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2024-12-13 23:06:51,638 INFO    SenderThread:33844 [sender.py:send_exit():446] send defer
+2024-12-13 23:06:51,638 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,638 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 0
+2024-12-13 23:06:51,639 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,639 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 0
+2024-12-13 23:06:51,639 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 1
+2024-12-13 23:06:51,639 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,639 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 1
+2024-12-13 23:06:51,700 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,700 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 1
+2024-12-13 23:06:51,700 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: poll_exit
+2024-12-13 23:06:51,701 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 2
+2024-12-13 23:06:51,701 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: poll_exit
+2024-12-13 23:06:51,701 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,701 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 2
+2024-12-13 23:06:51,701 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,702 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 2
+2024-12-13 23:06:51,702 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 3
+2024-12-13 23:06:51,702 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,702 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 3
+2024-12-13 23:06:51,702 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,702 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 3
+2024-12-13 23:06:51,702 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 4
+2024-12-13 23:06:51,702 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,702 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 4
+2024-12-13 23:06:51,702 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 4
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 5
+2024-12-13 23:06:51,703 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,703 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 5
+2024-12-13 23:06:51,703 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 5
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 6
+2024-12-13 23:06:51,703 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,703 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 6
+2024-12-13 23:06:51,703 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 6
+2024-12-13 23:06:51,703 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 7
+2024-12-13 23:06:51,704 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,704 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 7
+2024-12-13 23:06:51,704 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 7
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 8
+2024-12-13 23:06:51,704 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,704 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 8
+2024-12-13 23:06:51,704 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 8
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 9
+2024-12-13 23:06:51,704 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,704 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 9
+2024-12-13 23:06:51,704 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 9
+2024-12-13 23:06:51,704 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 10
+2024-12-13 23:06:51,705 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,705 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 10
+2024-12-13 23:06:51,705 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,705 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 10
+2024-12-13 23:06:51,705 INFO    SenderThread:33844 [sender.py:transition_state():459] send defer: 11
+2024-12-13 23:06:51,705 DEBUG   SenderThread:33844 [sender.py:send():302] send: final
+2024-12-13 23:06:51,706 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: defer
+2024-12-13 23:06:51,706 INFO    HandlerThread:33844 [handler.py:handle_request_defer():164] handle defer: 11
+2024-12-13 23:06:51,706 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: defer
+2024-12-13 23:06:51,706 INFO    SenderThread:33844 [sender.py:send_request_defer():455] handle sender defer: 11
+2024-12-13 23:06:51,816 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: poll_exit
+2024-12-13 23:06:51,816 DEBUG   SenderThread:33844 [sender.py:send_request():316] send_request: poll_exit
+2024-12-13 23:06:51,923 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: sampled_history
+2024-12-13 23:06:51,925 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: get_summary
+2024-12-13 23:06:51,925 INFO    MainThread:33844 [wandb_run.py:_footer_history_summary_info():3305] rendering history
+2024-12-13 23:06:51,925 INFO    MainThread:33844 [wandb_run.py:_footer_history_summary_info():3337] rendering summary
+2024-12-13 23:06:51,927 DEBUG   HandlerThread:33844 [handler.py:handle_request():141] handle_request: shutdown
+2024-12-13 23:06:51,927 INFO    HandlerThread:33844 [handler.py:finish():810] shutting down handler
+2024-12-13 23:06:52,719 INFO    WriterThread:33844 [datastore.py:close():279] close: C:\Users\Andrey Victor Justo\workspace\redes-neurais\projeto-final\predictor\wandb\offline-run-20241213_230651-9oo27yls\run-9oo27yls.wandb
+2024-12-13 23:06:52,828 INFO    SenderThread:33844 [sender.py:finish():1312] shutting down sender
+2024-12-13 23:06:52,938 INFO    MainThread:33844 [internal.py:handle_exit():80] Internal process exited
